@@ -6,7 +6,7 @@ A responsive webpage built with HTML and CSS Grid, featuring interactive hover e
 A responsive webpage designed using HTML and CSS Grid. This project highlights modern layout techniques along with engaging hover effects on images.
 
 ## 🔗 Live Demo
-[Click here to view the page](https://chandramauli-kashyap.github.io/grid-hover-showcase/)  
+[Click here to view the page]( https://chandramauli-kashyap.github.io/grid-hover-showcase/)  
 
 
 ## 📌 Features
